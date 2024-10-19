@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729390758374",
+    "project_id": "denvak-9ed16",
+    "storage_bucket": "denvak-9ed16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729390758374:android:54c5e53f7eadac82a4fe27",
+        "android_client_info": {
+          "package_name": "com.example.denvak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiaU1ZSqo-OI7dMxQLgDFlHP5Ej9cCEJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
