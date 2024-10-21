@@ -9,7 +9,7 @@ void main() async {
     // Initialize Firebase with error handling
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "your_web_api_key_here", // Replace with your actual Web API key
+        apiKey: "your_app_id_here", // Replace with your actual Web API key
         authDomain: "denvak-9ed16.firebaseapp.com", // Auth domain from Firebase
         projectId: "denvak-9ed16", // Your Project ID
         storageBucket: "denvak-9ed16.appspot.com", // Storage bucket name
@@ -35,7 +35,8 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       debugShowCheckedModeBanner: false, // Remove the debug banner
-      home: const InitializationWrapper(), // Start with the initialization wrapper
+      home:
+          const InitializationWrapper(), // Start with the initialization wrapper
     );
   }
 }
