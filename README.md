@@ -1,6 +1,6 @@
 # denvak
 
-A new Flutter project.
+flutter run 
 
 ## Getting Started
 
